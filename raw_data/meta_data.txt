@@ -1,2 +1,0 @@
-File_Name=cyber.txt
-chapters=1
